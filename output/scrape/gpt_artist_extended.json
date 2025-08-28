@@ -1,0 +1,578 @@
+{
+  "peter, paul & mary": [
+    "peter paul and mary"
+  ],
+  "simon & garfunkel": [
+    "simon and garfunkel"
+  ],
+  "hank williams, jr.": [
+    "hank williams jr"
+  ],
+  "the mamas & the papas": [
+    "the mamas and the papas"
+  ],
+  "marvin gaye, tammi terrell": [
+    "marvin gaye",
+    "tammi terrell"
+  ],
+  "diana ross & the supremes with the temptations": [
+    "diana ross and the supremes",
+    "the temptations"
+  ],
+  "crosby, stills & nash": [
+    "crosby stills and nash"
+  ],
+  "les mc cann & eddie harris": [
+    "les mc cann",
+    "eddie harris"
+  ],
+  "sly & the family stone": [
+    "sly and the family stone"
+  ],
+  "crosby, stills, nash & young": [
+    "crosby stills nash and young"
+  ],
+  "gary puckett & the union gap": [
+    "gary puckett and the union gap"
+  ],
+  "kenny rogers & the first edition": [
+    "kenny rogers and the first edition"
+  ],
+  "conway twitty & loretta lynn": [
+    "conway twitty",
+    "loretta lynn"
+  ],
+  "paul & linda mc cartney": [
+    "paul mc cartney",
+    "linda mc cartney"
+  ],
+  "blood, sweat & tears": [
+    "blood sweat and tears"
+  ],
+  "loggins & messina": [
+    "loggins and messina"
+  ],
+  "david crosby & graham nash": [
+    "david crosby",
+    "graham nash"
+  ],
+  "seals & crofts": [
+    "seals and crofts"
+  ],
+  "carlos santana & buddy miles": [
+    "carlos santana",
+    "buddy miles"
+  ],
+  "hall & oates": [
+    "hall and oates"
+  ],
+  "paul mc cartney & wings": [
+    "paul mc cartney and wings"
+  ],
+  "earth, wind & fire": [
+    "earth wind and fire"
+  ],
+  "bob seger & the silver bullet band": [
+    "bob seger and the silver bullet band"
+  ],
+  "diana ross & the supremes": [
+    "diana ross and the supremes"
+  ],
+  "bob marley & the wailers": [
+    "bob marley and the wailers"
+  ],
+  "bob dylan & the band": [
+    "bob dylan and the band"
+  ],
+  "harold melvin & the blue notes": [
+    "harold melvin and the blue notes"
+  ],
+  "george jones & tammy wynette": [
+    "george jones",
+    "tammy wynette"
+  ],
+  "george thorogood & the destroyers": [
+    "george thorogood and the destroyers"
+  ],
+  "kenny rogers & dottie west": [
+    "kenny rogers",
+    "dottie west"
+  ],
+  "tom petty & the heartbreakers": [
+    "tom petty and the heartbreakers"
+  ],
+  "adam and the ants": [
+    "adam and the ants"
+  ],
+  "jean p. rampal & claude bolling": [
+    "jean p rampal",
+    "claude bolling"
+  ],
+  "grover washington, jr.": [
+    "grover washington jr"
+  ],
+  "willie nelson & family": [
+    "willie nelson and family"
+  ],
+  "s.r. vaughan & double trouble": [
+    "sr vaughan and double trouble"
+  ],
+  "huey lewis & the news": [
+    "huey lewis and the news"
+  ],
+  "prince & the revolution": [
+    "prince and the revolution"
+  ],
+  "gloria estefan & miami sound machine": [
+    "gloria estefan and miami sound machine"
+  ],
+  "kenny rogers & dolly parton": [
+    "kenny rogers",
+    "dolly parton"
+  ],
+  "elmo and patsy": [
+    "elmo and patsy"
+  ],
+  "kool & the gang": [
+    "kool and the gang"
+  ],
+  "rene & angela": [
+    "rene and angela"
+  ],
+  "lisa lisa & cult jam with full force": [
+    "lisa lisa and cult jam",
+    "full force"
+  ],
+  "bruce hornsby & the range": [
+    "bruce hornsby and the range"
+  ],
+  "bob james & david sanborn": [
+    "bob james",
+    "david sanborn"
+  ],
+  "billy vera & the beaters": [
+    "billy vera and the beaters"
+  ],
+  "david & david": [
+    "david and david"
+  ],
+  "john cafferty & beaver brown": [
+    "john cafferty and beaver brown"
+  ],
+  "dj jazzy jeff & fresh prince": [
+    "dj jazzy jeff and fresh prince"
+  ],
+  "ozzy osbourne & randy rhoads": [
+    "ozzy osbourne",
+    "randy rhoads"
+  ],
+  "lisa lisa & cult jam": [
+    "lisa lisa and cult jam"
+  ],
+  "d. parton, l. ronstadt, e. harris": [
+    "dolly parton",
+    "linda ronstadt",
+    "emmylou harris"
+  ],
+  "george benson & earl klugh": [
+    "george benson",
+    "earl klugh"
+  ],
+  "10,000 maniacs": [
+    "maniacs"
+  ],
+  "eric b. & rakim": [
+    "eric b and rakim"
+  ],
+  "mannheim steamroller &  m. williams": [
+    "mannheim steamroller",
+    "m williams"
+  ],
+  "harry connick, jr.": [
+    "harry connick jr"
+  ],
+  "gladys knight & the pips": [
+    "gladys knight and the pips"
+  ],
+  "ziggy marley & melody makers": [
+    "ziggy marley and melody makers"
+  ],
+  "joan jett & the blackhearts": [
+    "joan jett and the blackhearts"
+  ],
+  "edie brickell & new bohemians": [
+    "edie brickell and new bohemians"
+  ],
+  "winans, bebe & cece": [
+    "bebe winans",
+    "cece winans"
+  ],
+  "bob dylan & the dead": [
+    "bob dylan and the dead"
+  ],
+  "love & rockets": [
+    "love and rockets"
+  ],
+  "k.d. lang & the reclines": [
+    "kd lang and the reclines"
+  ],
+  "dj magic mike & royal posse": [
+    "dj magic mike and royal posse"
+  ],
+  "n.w.a. & the posse": [
+    "nwa and the posse"
+  ],
+  "jive bunny & mastermixers": [
+    "jive bunny and mastermixers"
+  ],
+  "kc & the sunshine band": [
+    "kc and the sunshine band"
+  ],
+  "c&c music factory": [
+    "c and c music factory"
+  ],
+  "brooks & dunn": [
+    "brooks and dunn"
+  ],
+  "heavy d & the boyz": [
+    "heavy d and the boyz"
+  ],
+  "marky mark & the funky bunch": [
+    "marky mark and the funky bunch"
+  ],
+  "dj magic mike & mc madness": [
+    "dj magic mike and mc madness"
+  ],
+  "yo yo ma & bobby mcferrin": [
+    "yo yo ma",
+    "bobby mcferrin"
+  ],
+  "r. kelly & public announcement": [
+    "r kelly and public announcement"
+  ],
+  "mc bride & the ride": [
+    "mc bride and the ride"
+  ],
+  "big head todd & the monsters": [
+    "big head todd and the monsters"
+  ],
+  "beavis & butt-head": [
+    "beavis and butthead"
+  ],
+  "g. love and special sauce": [
+    "g love and special sauce"
+  ],
+  "hootie & the blowfish": [
+    "hootie and the blowfish"
+  ],
+  "sandra boynton & michael ford": [
+    "sandra boynton",
+    "michael ford"
+  ],
+  "juan gabriel & rocio durcal": [
+    "juan gabriel",
+    "rocio durcal"
+  ],
+  "k-ci & jojo": [
+    "k ci and jojo"
+  ],
+  "p. diddy & the family": [
+    "p diddy and the family"
+  ],
+  "sting & the police": [
+    "sting",
+    "the police"
+  ],
+  "dave matthews & tim reynolds": [
+    "dave matthews",
+    "tim reynolds"
+  ],
+  "lil' jon & the eastside boyz": [
+    "lil jon and the eastside boyz"
+  ],
+  "stevie ray vaughan and double trouble": [
+    "stevie ray vaughan and double trouble"
+  ],
+  "frankie valli & the four seasons": [
+    "frankie valli and the four seasons"
+  ],
+  "coheed & cambria": [
+    "coheed and cambria"
+  ],
+  "iron & wine": [
+    "iron and wine"
+  ],
+  "big & rich": [
+    "big and rich"
+  ],
+  "jay-z & linkin park": [
+    "jay z",
+    "linkin park"
+  ],
+  "aly & aj": [
+    "aly and aj"
+  ],
+  "jean-yves thibaudet and dario marianelli": [
+    "jean yves thibaudet",
+    "dario marianelli"
+  ],
+  "israel & new breed": [
+    "israel and new breed"
+  ],
+  "jack johnson & friends": [
+    "jack johnson and friends"
+  ],
+  "angels & airwaves": [
+    "angels and airwaves"
+  ],
+  "jesse & joy": [
+    "jesse and joy"
+  ],
+  "glen hansard & marketa irglova": [
+    "glen hansard",
+    "marketa irglova"
+  ],
+  "jowell & randy": [
+    "jowell and randy"
+  ],
+  "alexis and fido": [
+    "alexis and fido"
+  ],
+  "bow wow & omarion": [
+    "bow wow",
+    "omarion"
+  ],
+  "edward sharpe & the magnetic zeros": [
+    "edward sharpe and the magnetic zeros"
+  ],
+  "selena gomez & the scene": [
+    "selena gomez and the scene"
+  ],
+  "florence & the machine": [
+    "florence and the machine"
+  ],
+  "alvin and the chipmunks": [
+    "alvin and the chipmunks"
+  ],
+  "mumford & sons": [
+    "mumford and sons"
+  ],
+  "chino & nacho": [
+    "chino and nacho"
+  ],
+  "james taylor & carole king": [
+    "james taylor",
+    "carole king"
+  ],
+  "ray lamontagne and the pariah dogs": [
+    "ray lamontagne and the pariah dogs"
+  ],
+  "the head and the heart": [
+    "the head and the heart"
+  ],
+  "tyler, the creator": [
+    "tyler the creator"
+  ],
+  "trey parker, robert lopez, matt stone": [
+    "trey parker",
+    "robert lopez",
+    "matt stone"
+  ],
+  "jay-z & kanye west": [
+    "jay z",
+    "kanye west"
+  ],
+  "snoop dogg & wiz khalifa": [
+    "snoop dogg",
+    "wiz khalifa"
+  ],
+  "marina & the diamonds": [
+    "marina and the diamonds"
+  ],
+  "of monsters & men": [
+    "of monsters and men"
+  ],
+  "macklemore & ryan lewis": [
+    "macklemore and ryan lewis"
+  ],
+  "for king & country": [
+    "for king and country"
+  ],
+  "tony bennett & lady gaga": [
+    "tony bennett",
+    "lady gaga"
+  ],
+  "skrillex & diplo": [
+    "skrillex",
+    "diplo"
+  ],
+  "nathaniel rateliff and the night sweats": [
+    "nathaniel rateliff and the night sweats"
+  ],
+  "arcangel & dj luian": [
+    "arcangel",
+    "dj luian"
+  ],
+  "fitz and the tantrums": [
+    "fitz and the tantrums"
+  ],
+  "21 savage & metro boomin": [
+    "savage",
+    "metro boomin"
+  ],
+  "noriel, trap capos": [
+    "noriel",
+    "trap capos"
+  ],
+  "zion & lennox": [
+    "zion and lennox"
+  ],
+  "future and juice wrld": [
+    "future",
+    "juice wrld"
+  ],
+  "lil baby & gunna": [
+    "lil baby",
+    "gunna"
+  ],
+  "ybn nahmir, ybn cordae & ybn almighty jay": [
+    "ybn nahmir",
+    "ybn cordae",
+    "ybn almighty jay"
+  ],
+  "lady gaga & bradley cooper": [
+    "lady gaga",
+    "bradley cooper"
+  ],
+  "wisin & yandel": [
+    "wisin and yandel"
+  ],
+  "j balvin, bad bunny": [
+    "j balvin",
+    "bad bunny"
+  ],
+  "alan menken, aladdin - cast, disney": [
+    "alan menken",
+    "aladdin cast",
+    "disney"
+  ],
+  "young dolph, key glock": [
+    "young dolph",
+    "key glock"
+  ],
+  "tones and i": [
+    "tones and i"
+  ],
+  "rich music ltd, sech, dalex": [
+    "rich music ltd",
+    "sech",
+    "dalex"
+  ],
+  "maddie & tae": [
+    "maddie and tae"
+  ],
+  "nio garcia & casper magico": [
+    "nio garcia",
+    "casper magico"
+  ],
+  "moneybagg yo & blac youngsta": [
+    "moneybagg yo",
+    "blac youngsta"
+  ],
+  "grupo firme, luis angel \"el flaco\", el mimoso luis antonio lópez": [
+    "grupo firme",
+    "luis angel el flaco",
+    "el mimoso luis antonio lopez"
+  ],
+  "elevation worship & maverick city music": [
+    "elevation worship",
+    "maverick city music"
+  ],
+  "lil baby, lil durk": [
+    "lil baby",
+    "lil durk"
+  ],
+  "tainy, yandel": [
+    "tainy",
+    "yandel"
+  ],
+  "lin-manuel miranda, germaine franco, encanto - cast": [
+    "lin manuel miranda",
+    "germaine franco",
+    "encanto cast"
+  ],
+  "wisin & los legendarios": [
+    "wisin",
+    "los legendarios"
+  ],
+  "drake & 21 savage": [
+    "drake",
+    "savage"
+  ],
+  "¥$, kanye west, ty dolla $ign": [
+    "kanye west",
+    "ty dolla sign"
+  ],
+  "the academy: segunda misión, lenny tavárez, sech, justin quiles, dalex, dimelo flow": [
+    "the academy segunda mision",
+    "lenny tavarez",
+    "sech",
+    "justin quiles",
+    "dalex",
+    "dimelo flow"
+  ],
+  "future, metro boomin": [
+    "future",
+    "metro boomin"
+  ],
+  "raul acosta y oro solido": [
+    "raul acosta",
+    "oro solido"
+  ],
+  "marco antonio solis y los bukis": [
+    "marco antonio solis",
+    "los bukis"
+  ],
+  "priscila y sus balas de plata": [
+    "priscila y sus balas de plata"
+  ],
+  "a.b. y los kumbia kings quintanilla iii": [
+    "ab quintanilla",
+    "los kumbia kings"
+  ],
+  "el coyote y su banda": [
+    "el coyote y su banda"
+  ],
+  "hector y tito": [
+    "hector y tito"
+  ],
+  "beto y sus canarios": [
+    "beto y sus canarios"
+  ],
+  "wisin y yandel": [
+    "wisin",
+    "yandel"
+  ],
+  "rakim y keny": [
+    "rakim",
+    "keny"
+  ],
+  "wisin y yandel presents dj  nesty": [
+    "wisin",
+    "yandel",
+    "dj nesty"
+  ],
+  "ariel camacho y los plebes del rancho": [
+    "ariel camacho",
+    "los plebes del rancho"
+  ],
+  "julion alvarez y su norteno band": [
+    "julion alvarez y su norteno band"
+  ],
+  "mau y ricky": [
+    "mau y ricky"
+  ],
+  "cali y el dandee": [
+    "cali y el dandee"
+  ]
+}
