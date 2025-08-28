@@ -1,0 +1,11 @@
+params:
+
+  # Scraping parameters
+  riaa_base_url_album  : "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=&ti=&lab=&genre=&format=Album&date_option=release&from={FROM}&to={TO}&award=&type=&category=&adv=SEARCH#search_section"
+  riaa_base_url_single : "https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=&ti=&lab=&genre=&format=Single&date_option=release&from={FROM}&to={TO}&award=&type=&category=&adv=SEARCH#search_section"
+  billboard_base_url   : "https://www.billboard.com/charts/hot-100/{WEEK}/"
+  api_search_api_url   : "https://api.genius.com/search?access_token={ACCESS_TOKEN}&q={QUERY}"
+  header               : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+  start_year           : 1958
+  end_year             : 2024
+  
